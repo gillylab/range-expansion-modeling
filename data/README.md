@@ -11,8 +11,8 @@ Column headers are as follows (parentheses indicate data source):
 - **Squid**: calculated Humboldt squid relative abundance (in units of sightings by ROV per hour as described in Stewart et al. 2014) (MBARI)
 - **DepthOMZ**: calculated upper depth of the oxygen minimum zone (OMZ), defined as 0.5 ml/L (MBARI)
 - **Temp25m**: calculated temperature at 25m (MBARI)
-- **UIwin**: calculated upwelling window XXXXXXXXXXX
-- **NOI**: XXXXXX
+- **UIwin**: calculated 30-day cumulative upwelling window (Bakun Upwelling Index)
+- **NOI**: Northern Oscillation Index
 - **DayL**: calculated day length
 - **Strat**: calculated stratification
 - **LatN**: latitute north
