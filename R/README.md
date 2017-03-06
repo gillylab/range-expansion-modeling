@@ -11,4 +11,3 @@ They have been updated March 2017 with the [tidyverse](http://tidyverse.org) and
 Provenance notes (Admittedly minimal): 
 
 - `lavaanSEM.r` was renamed from its original `lavaanSEM_squid_2013_04_04.r`.
-- `prepared_squid.RData` was renamed from its original `mysquid.RData`
